@@ -22,9 +22,7 @@
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
     "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^1.14.0",
     "axios": "^0.15.3",
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^3.10.1",
@@ -35,5 +33,6 @@
     "react-sparklines": "^1.6.0",
     "redux": "^3.0.4",
     "redux-promise": "^0.5.3"
-  }
+  },
+  "dependencies": {}
 }
