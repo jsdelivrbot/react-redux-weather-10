@@ -1,2 +1,1 @@
-# react-redux-weather
-Yet another weather app this time with Redux
+Redux Weather - Just another weather app using React & Redux
